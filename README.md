@@ -28,7 +28,7 @@ Usage
 	* Train ppo agent: `python main_mujoco_ppo.py`
 	* Eval agent: `python eval.py`
 
--[Visualization]
+- [Visualization]
     * Plot with variation `python visualize.py`
 
 ```
@@ -42,8 +42,8 @@ optional arguments:
 ```
 
 ![png](img/intermediate3.png)
-![png](img/intermediate4.png)
 
-- [To-do list]
-	- [x] Add rendering code for adversarial force in gym-adv
-	- [x] Add new robotic manipulation environment
+To-do list
+============
+- [x] Add rendering code for adversarial force in gym-adv
+- [x] Add new robotic manipulation environment
