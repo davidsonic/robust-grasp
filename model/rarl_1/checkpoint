@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/gym/rarl_1/adv_best_model"
+all_model_checkpoint_paths: "/tmp/gym/rarl_1/adv_best_model"
